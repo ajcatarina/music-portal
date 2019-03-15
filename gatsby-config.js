@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `INTUNE PORTAL`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `A site for chord charts, song lyrics, and other useful resources for music`,
+    author: `@ajcatarina`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
